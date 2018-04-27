@@ -1,0 +1,6 @@
+jwt\security\util\JsonUtils.class
+jwt\security\web\AuthoritiesController.class
+jwt\security\BaseSecurityTestSuite$1.class
+jwt\security\AuthoritiesControllerTest.class
+jwt\security\BaseSecurityTestSuite.class
+jwt\security\UserTest.class
